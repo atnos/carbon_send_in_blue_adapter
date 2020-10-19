@@ -1,6 +1,8 @@
 # carbon_send_in_blue_adapter
 
-TODO: Write a description here
+This is luckyframework/carbon's adapter for SendInBlue: https://www.sendinblue.com
+
+https://github.com/luckyframework/carbon
 
 ## Installation
 
@@ -9,7 +11,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      carbon_send_in_blue_adapter:
-       github: your-github-user/carbon_send_in_blue_adapter
+       github: atnos/carbon_send_in_blue_adapter
    ```
 
 2. Run `shards install`
