@@ -45,10 +45,6 @@ end
 
 ```
 
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
 1. Fork it (<https://github.com/your-github-user/carbon_send_in_blue_adapter/fork>)
@@ -59,4 +55,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [Bruno Perles](https://github.com/brunto) - creator and maintainer
